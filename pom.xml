@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.portfolio</groupId>
-    <artifactId>mgb</artifactId>
+    <artifactId>portfolio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mgb.Produccion</name>
-    <description>Portfolio de MGB</description>
+    <name>portfolio.Produccion</name>
+    <description>Portfolio de Santiago</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
