@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolio.mgb.MgbApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.287 s - in com.portfolio.mgb.MgbApplicationTests
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.228 s - in com.portfolio.mgb.MgbApplicationTests
+>>>>>>> 246b7f1e896aad770c996a65f93d7cd40c77c6fd
