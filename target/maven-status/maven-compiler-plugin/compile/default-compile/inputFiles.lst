@@ -1,10 +1,12 @@
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Entity\Rol.java
+C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Dto\dtoHyS.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Service\UserDetailsImpl.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\MainSecurity.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Entity\Persona.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Controller\CEducacion.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Dto\DtoExperiencia.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Dto\dtoPersona.java
+C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Entity\HyS.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Entity\Experiencia.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Controller\PersonaController.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Service\SEducacion.java
@@ -13,6 +15,7 @@ C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mg
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Entity\UsuarioPrincipal.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Repository\IPersonaRepository.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Service\RolService.java
+C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Controller\CHyS.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\jwt\JwtTokenFilter.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\jwt\JwtProvider.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Service\ImpPersonaService.java
@@ -24,12 +27,14 @@ C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mg
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Repository\RExperiencia.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Repository\REducacion.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Entity\Usuario.java
+C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Service\SHyS.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Interface\IPersonaService.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Repository\iRolRepository.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\MgbApplication.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Dto\NuevoUsuario.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Dto\dtoEducacion.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Repository\iUsuarioRepository.java
+C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Repository\RHyS.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Controller\Mensaje.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\Dto\JwtDto.java
 C:\Users\s\Desktop\Programacion\Portfolio-Backend\src\main\java\com\portfolio\mgb\Security\jwt\JwtEntryPoint.java
