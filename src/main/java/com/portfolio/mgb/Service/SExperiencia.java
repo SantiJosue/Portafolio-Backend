@@ -14,7 +14,7 @@ public class SExperiencia {
     @Autowired
     RExperiencia rExperiencia;
     
-    public List<Experiencia> lsit(){
+    public List<Experiencia> list(){
         return rExperiencia.findAll();
     }
     

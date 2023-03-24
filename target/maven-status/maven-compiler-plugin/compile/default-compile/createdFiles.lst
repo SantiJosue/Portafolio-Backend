@@ -9,7 +9,6 @@ com\portfolio\mgb\Security\Controller\Mensaje.class
 com\portfolio\mgb\Entity\Experiencia.class
 com\portfolio\mgb\Security\jwt\JwtTokenFilter.class
 com\portfolio\mgb\Entity\Persona.class
-com\portfolio\mgb\Interface\IPersonaService.class
 com\portfolio\mgb\Security\Dto\NuevoUsuario.class
 com\portfolio\mgb\Dto\dtoPersona.class
 com\portfolio\mgb\Controller\CEducacion.class
